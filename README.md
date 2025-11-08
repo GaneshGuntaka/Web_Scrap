@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/GaneshGuntaka/Web_Scrap/blob/main/FlipKart_logo.png?raw=true" alt="Flipkart Logo" width="200"/>
+  <img src="https://github.com/GaneshGuntaka/Web_Scrap/blob/main/FlipKart_logo.png?raw=true" alt="Flipkart Logo" width="500"/>
 </p>
-# 📊 Flipkart TV Trends — Web Scraping & Data Analysis
+
+## 📊 Flipkart TV Trends — Web Scraping & Data Analysis
 
 ## 🧠 About the Project
 This project focuses on **web scraping and analyzing TV product data from Flipkart**, one of India’s largest e-commerce platforms.  
