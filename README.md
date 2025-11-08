@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GaneshGuntaka/Web_Scrap/blob/main/FlipKart_logo.png?raw=true" alt="Flipkart Logo" width="500"/>
+  <img src="https://github.com/GaneshGuntaka/Web_Scrap/blob/main/FlipKart_logo.png?raw=true" alt="Flipkart Logo" width="450"/>
 </p>
 
 ## 📊 Flipkart TV Trends — Web Scraping & Data Analysis
